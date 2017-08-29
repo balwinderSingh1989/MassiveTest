@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../android-mvp-architecture.iml" filepath="$PROJECT_DIR$/../android-mvp-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MassiveTest.iml" filepath="$PROJECT_DIR$/../MassiveTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
     </modules>
   </component>
