@@ -1,5 +1,5 @@
 ## Description
 
-This sample project demonstrate use of dagger 2 with Rx Java and Retrofit.
+This repository contains a detailed sample app that implements MVP architecture using Dagger2, ButterKnife, RxJava,Retrofit.  
 
 
